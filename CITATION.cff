@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "SELCM-AE, a portable hyperchaotic lattice cipher for audio"
+type: software
+license: MIT
+authors:
+  - family-names: Patil
+    given-names: Lakhichand
+    affiliation: "Fergusson College (Autonomous), Pune, India"
+    orcid: "https://orcid.org/0009-0009-7172-7040"
+  - family-names: Popat
+    given-names: Kalpesh
+    affiliation: "Marwadi University, Rajkot, India"
+    orcid: "https://orcid.org/0000-0002-3818-3717"
+version: "1.0.0"
+date-released: "2026-10-20"
+preferred-citation:
+  type: article
+  title: "A Portable Hyperchaotic Lattice Cipher for Audio with Provable Bounds on Differential and Linear Trails"
+  authors:
+    - family-names: Patil
+      given-names: Lakhichand
+    - family-names: Popat
+      given-names: Kalpesh
+  journal: "Nonlinear Dynamics (submitted)"
+  year: 2026

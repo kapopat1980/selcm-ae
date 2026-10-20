@@ -1,0 +1,1094 @@
+{
+ "AudioMNIST spk01": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 298429,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk02": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 312674,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk03": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 286057,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk04": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 271634,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk05": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 274889,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk06": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 294148,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk07": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 263911,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk08": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 270619,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk09": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 321262,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk10": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 319308,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk11": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 329521,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk12": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 289012,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk13": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 336313,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk14": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 266049,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk15": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 260941,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk16": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 278059,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk17": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 315704,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk18": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 317282,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk19": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 292690,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk20": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 315175,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk21": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 302790,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk22": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 376054,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk23": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 289666,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk24": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 280894,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk25": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 340071,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk26": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 312570,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk27": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 272802,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk28": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 297969,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk29": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 333058,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk30": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 277751,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk31": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 284925,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk32": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 362334,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk33": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 318502,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk34": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 304523,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk35": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 312374,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk36": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 335400,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk37": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 268875,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk38": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 352654,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk39": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 311707,
+  "src": "AudioMNIST"
+ },
+ "AudioMNIST spk40": {
+  "cat": "speech",
+  "sr": 48000,
+  "ch": 1,
+  "n": 305274,
+  "src": "AudioMNIST"
+ },
+ "FSDD jackson take0": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 41947,
+  "src": "FSDD"
+ },
+ "FSDD jackson take1": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 40037,
+  "src": "FSDD"
+ },
+ "FSDD nicolas take0": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 27048,
+  "src": "FSDD"
+ },
+ "FSDD nicolas take1": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 28244,
+  "src": "FSDD"
+ },
+ "FSDD theo take0": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 26862,
+  "src": "FSDD"
+ },
+ "FSDD theo take1": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 24688,
+  "src": "FSDD"
+ },
+ "FSDD yweweler take0": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 29049,
+  "src": "FSDD"
+ },
+ "FSDD yweweler take1": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 26172,
+  "src": "FSDD"
+ },
+ "FSDD george take0": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 39222,
+  "src": "FSDD"
+ },
+ "FSDD george take1": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 42744,
+  "src": "FSDD"
+ },
+ "FSDD lucas take0": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 46624,
+  "src": "FSDD"
+ },
+ "FSDD lucas take1": {
+  "cat": "speech",
+  "sr": 8000,
+  "ch": 1,
+  "n": 45136,
+  "src": "FSDD"
+ },
+ "A1 LibriSpeech 198-209-0000": {
+  "cat": "speech",
+  "sr": 16000,
+  "ch": 1,
+  "n": 222561,
+  "src": "LibriSpeech (librosa)"
+ },
+ "LibriSpeech 5703-47212-0000": {
+  "cat": "speech",
+  "sr": 16000,
+  "ch": 1,
+  "n": 237440,
+  "src": "LibriSpeech (librosa)"
+ },
+ "LibriSpeech 3436-172162-0000": {
+  "cat": "speech",
+  "sr": 16000,
+  "ch": 1,
+  "n": 267920,
+  "src": "LibriSpeech (librosa)"
+ },
+ "ESC-50 1-100032-A-0.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-100038-A-14.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-100210-A-36.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-101296-A-19.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-101336-A-30.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-101404-A-34.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-103298-A-9.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-104089-A-22.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-115545-A-48.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-116765-A-41.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-11687-A-47.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-118206-A-31.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-118559-A-17.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-119125-A-45.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-121951-A-8.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-12653-A-15.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-13571-A-46.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-13613-A-37.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-137-A-32.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-137296-A-16.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-155858-A-25.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-15689-A-4.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-16568-A-3.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-17092-A-27.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-17124-A-43.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-17150-A-12.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-172649-A-40.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-17295-A-29.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-17367-A-10.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-17585-A-7.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-1791-A-26.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-18074-A-6.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-18527-A-44.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-18631-A-23.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-187207-A-20.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-18810-A-49.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-19111-A-24.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-20133-A-39.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-20545-A-28.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-20736-A-18.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-208757-A-2.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-21896-A-35.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-21934-A-38.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-26143-A-21.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-26806-A-1.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-28135-A-11.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-31482-A-42.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-34094-A-5.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-51805-A-33.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "ESC-50 1-57316-A-13.wav": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 220500,
+  "src": "ESC-50"
+ },
+ "Humpback whale song": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 2858077,
+  "src": "librosa"
+ },
+ "Robin whistle": {
+  "cat": "environmental",
+  "sr": 44100,
+  "ch": 1,
+  "n": 119009,
+  "src": "librosa"
+ },
+ "Dog vocalisation (pibble)": {
+  "cat": "environmental",
+  "sr": 48000,
+  "ch": 1,
+  "n": 2253824,
+  "src": "librosa"
+ },
+ "Vibe Ace seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Vibe Ace"
+ },
+ "Vibe Ace seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Vibe Ace"
+ },
+ "Vibe Ace seg03": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Vibe Ace"
+ },
+ "Vibe Ace seg04": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Vibe Ace"
+ },
+ "Vibe Ace seg05": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Vibe Ace"
+ },
+ "Vibe Ace seg06": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Vibe Ace"
+ },
+ "Sweet waltz seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sweet waltz"
+ },
+ "Sweet waltz seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sweet waltz"
+ },
+ "Sweet waltz seg03": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sweet waltz"
+ },
+ "Sweet waltz seg04": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sweet waltz"
+ },
+ "Solo trumpet seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 470402,
+  "src": "Solo trumpet"
+ },
+ "Choice (drum and bass) seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Choice (drum and bass)"
+ },
+ "Choice (drum and bass) seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Choice (drum and bass)"
+ },
+ "Sugar Plum Fairy seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg03": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg04": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg05": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg06": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg07": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg08": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg09": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg10": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Sugar Plum Fairy seg11": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Sugar Plum Fairy"
+ },
+ "Hungarian Dance 5 seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Hungarian Dance 5"
+ },
+ "Hungarian Dance 5 seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Hungarian Dance 5"
+ },
+ "Hungarian Dance 5 seg03": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Hungarian Dance 5"
+ },
+ "Hungarian Dance 5 seg04": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Hungarian Dance 5"
+ },
+ "Let's Go Fishin' seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg03": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg04": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg05": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg06": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg07": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg08": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg09": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg10": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg11": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg12": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Let's Go Fishin' seg13": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Let's Go Fishin'"
+ },
+ "Pistachio ragtime seg01": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ },
+ "Pistachio ragtime seg02": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ },
+ "Pistachio ragtime seg03": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ },
+ "Pistachio ragtime seg04": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ },
+ "Pistachio ragtime seg05": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ },
+ "Pistachio ragtime seg06": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ },
+ "Pistachio ragtime seg07": {
+  "cat": "music",
+  "sr": 44100,
+  "ch": 2,
+  "n": 882000,
+  "src": "Pistachio ragtime"
+ }
+}

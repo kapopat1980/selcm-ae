@@ -1,0 +1,192 @@
+{
+ "SELCM-AE v2 lattice keystream": {
+  "Frequency": {
+   "prop": 0.99,
+   "unif_p": 0.3838265173713841,
+   "n": 100,
+   "subtests": 1
+  },
+  "Block frequency": {
+   "prop": 0.99,
+   "unif_p": 0.7197465748240339,
+   "n": 100,
+   "subtests": 1
+  },
+  "Runs": {
+   "prop": 1.0,
+   "unif_p": 0.7399182920946538,
+   "n": 100,
+   "subtests": 1
+  },
+  "Longest run": {
+   "prop": 1.0,
+   "unif_p": 0.3669177991127526,
+   "n": 100,
+   "subtests": 1
+  },
+  "DFT spectral": {
+   "prop": 0.98,
+   "unif_p": 0.171866837466844,
+   "n": 100,
+   "subtests": 1
+  },
+  "Approximate entropy": {
+   "prop": 0.98,
+   "unif_p": 0.851382575356795,
+   "n": 100,
+   "subtests": 1
+  },
+  "Serial": {
+   "prop": 0.94,
+   "unif_p": 0.00040563111935916187,
+   "n": 100,
+   "subtests": 1
+  },
+  "Cumulative sums": {
+   "prop": 0.99,
+   "unif_p": 0.6786857852960748,
+   "n": 100,
+   "subtests": 1
+  },
+  "Binary matrix rank": {
+   "prop": 1.0,
+   "unif_p": 0.6993125708664081,
+   "n": 100,
+   "subtests": 1
+  },
+  "Overlapping template": {
+   "prop": 1.0,
+   "unif_p": 0.6163052249833653,
+   "n": 100,
+   "subtests": 1
+  },
+  "Maurer universal": {
+   "prop": 0.99,
+   "unif_p": 0.7791877161648364,
+   "n": 100,
+   "subtests": 1
+  },
+  "Linear complexity": {
+   "prop": 0.97,
+   "unif_p": 0.554420435872857,
+   "n": 100,
+   "subtests": 1
+  },
+  "Non-overlapping template (148)": {
+   "prop": 0.96,
+   "unif_p": 0.7791877161648362,
+   "n": 100,
+   "subtests": 148,
+   "subtests_passing": 147
+  },
+  "Random excursions (8)": {
+   "prop": 0.9705882352941176,
+   "unif_p": 0.8394055968766945,
+   "n": 68,
+   "subtests": 8,
+   "subtests_passing": 8
+  },
+  "Random excursions variant (18)": {
+   "prop": 0.9705882352941176,
+   "unif_p": 0.35526829665959087,
+   "n": 68,
+   "subtests": 18,
+   "subtests_passing": 18
+  }
+ },
+ "SELCM-AE v2 ciphertext of silence": {
+  "Frequency": {
+   "prop": 0.97,
+   "unif_p": 0.5749034238644555,
+   "n": 100,
+   "subtests": 1
+  },
+  "Block frequency": {
+   "prop": 0.99,
+   "unif_p": 0.22482064155775416,
+   "n": 100,
+   "subtests": 1
+  },
+  "Runs": {
+   "prop": 1.0,
+   "unif_p": 0.014549902304087554,
+   "n": 100,
+   "subtests": 1
+  },
+  "Longest run": {
+   "prop": 0.99,
+   "unif_p": 0.8165367975972473,
+   "n": 100,
+   "subtests": 1
+  },
+  "DFT spectral": {
+   "prop": 0.99,
+   "unif_p": 0.08558679062301314,
+   "n": 100,
+   "subtests": 1
+  },
+  "Approximate entropy": {
+   "prop": 1.0,
+   "unif_p": 0.055361051941826986,
+   "n": 100,
+   "subtests": 1
+  },
+  "Serial": {
+   "prop": 0.97,
+   "unif_p": 0.000513017202313238,
+   "n": 100,
+   "subtests": 1
+  },
+  "Cumulative sums": {
+   "prop": 0.98,
+   "unif_p": 0.5141236202310753,
+   "n": 100,
+   "subtests": 1
+  },
+  "Binary matrix rank": {
+   "prop": 0.99,
+   "unif_p": 0.3504852123233616,
+   "n": 100,
+   "subtests": 1
+  },
+  "Overlapping template": {
+   "prop": 0.99,
+   "unif_p": 0.3669177991127526,
+   "n": 100,
+   "subtests": 1
+  },
+  "Maurer universal": {
+   "prop": 0.99,
+   "unif_p": 0.2022676854058257,
+   "n": 100,
+   "subtests": 1
+  },
+  "Linear complexity": {
+   "prop": 1.0,
+   "unif_p": 0.40119928658025733,
+   "n": 100,
+   "subtests": 1
+  },
+  "Non-overlapping template (148)": {
+   "prop": 0.95,
+   "unif_p": 0.030806427866728624,
+   "n": 100,
+   "subtests": 148,
+   "subtests_passing": 145
+  },
+  "Random excursions (8)": {
+   "prop": 0.9836065573770492,
+   "unif_p": 0.1252709806443649,
+   "n": 61,
+   "subtests": 8,
+   "subtests_passing": 8
+  },
+  "Random excursions variant (18)": {
+   "prop": 0.9672131147540983,
+   "unif_p": 0.3790670407708337,
+   "n": 61,
+   "subtests": 18,
+   "subtests_passing": 18
+  }
+ }
+}

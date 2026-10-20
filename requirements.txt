@@ -1,0 +1,8 @@
+numpy>=2.0
+scipy>=1.11
+numba>=0.60
+cryptography>=42
+soundfile>=0.12
+matplotlib>=3.8
+pystoi>=0.4
+pesq>=0.0.4

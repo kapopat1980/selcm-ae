@@ -1,0 +1,22 @@
+{
+ "Full SELCM-AE v2": {
+  "diff": 13,
+  "lin": 10
+ },
+ "Two passes": {
+  "diff": 7,
+  "lin": 6
+ },
+ "No pre-S-box layer": {
+  "diff": 5,
+  "lin": 5
+ },
+ "One pass, no pre layer": {
+  "diff": 1,
+  "lin": 1
+ },
+ "Two passes, no pre (v1 structure)": {
+  "diff": 3,
+  "lin": 3
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "B3 Forward chained diffusion": {
+  "NSCR_after_adaptive_pair_mean": 0.00044931501925314844,
+  "max": 0.00044931501925314854,
+  "min": 0.00044931501925314854,
+  "trials": 30
+ },
+ "SELCM-AE v1": {
+  "NSCR_after_adaptive_pair_mean": 99.99829382183908,
+  "max": 99.99955100574712,
+  "min": 99.99685704022988,
+  "trials": 10
+ },
+ "SELCM-AE v2": {
+  "NSCR_after_adaptive_pair_mean": 99.99847341954023,
+  "max": 99.99955100574712,
+  "min": 99.99730603448276,
+  "trials": 10
+ }
+}

@@ -1,0 +1,74 @@
+[
+ {
+  "R": 12,
+  "L": 8,
+  "pre": false,
+  "npass": 2,
+  "status": 0,
+  "obj": 3.0,
+  "dual_bound": 3.0,
+  "vars": 560,
+  "secs": 2.0,
+  "dP_words": 4
+ },
+ {
+  "R": 20,
+  "L": 8,
+  "pre": false,
+  "npass": 2,
+  "status": 0,
+  "obj": 2.999999999999973,
+  "dual_bound": 2.999999999999973,
+  "vars": 880,
+  "secs": 5.0,
+  "dP_words": 4
+ },
+ {
+  "R": 12,
+  "L": 16,
+  "pre": false,
+  "npass": 2,
+  "status": 0,
+  "obj": 3.0,
+  "dual_bound": 3.0,
+  "vars": 1184,
+  "secs": 7.5,
+  "dP_words": 6
+ },
+ {
+  "R": 20,
+  "L": 16,
+  "pre": false,
+  "npass": 2,
+  "status": 0,
+  "obj": 2.9999999999999676,
+  "dual_bound": 2.9999999999999676,
+  "vars": 1824,
+  "secs": 31.3,
+  "dP_words": 4
+ },
+ {
+  "R": 12,
+  "L": 32,
+  "pre": false,
+  "npass": 2,
+  "status": 0,
+  "obj": 2.999999999999998,
+  "dual_bound": 2.999999999999998,
+  "vars": 2496,
+  "secs": 54.5,
+  "dP_words": 4
+ },
+ {
+  "R": 20,
+  "L": 32,
+  "pre": false,
+  "npass": 2,
+  "status": 1,
+  "obj": 2.999999999999999,
+  "dual_bound": 1.0,
+  "vars": 3776,
+  "secs": 120.0,
+  "dP_words": 4
+ }
+]
